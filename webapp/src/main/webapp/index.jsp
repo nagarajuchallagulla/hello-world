@@ -1,3 +1,3 @@
-Hello, Welcome to Valaxy Technologies !!
+Hello, Welcome to NR  Technologies !!
 
 Deployment is going to happen through ansible
